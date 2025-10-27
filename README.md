@@ -20,6 +20,10 @@ I'm a **beginner Front-End developer** focused on becoming a **Full-Stack develo
 Check out my personal portfolio here:  
 👉 [gustavo-ftz.github.io](https://gustavo-ftz.github.io/)
 
+## 📲 Social media
+👉 [Instagram](https://www.instagram.com/gustavo_feitoz_a)
+👉 [LinkedIn](https://www.linkedin.com/in/gustavo-ftz/)
+
 ---
 
 ## 📊 GitHub Stats
