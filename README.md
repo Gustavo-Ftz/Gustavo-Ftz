@@ -21,8 +21,8 @@ Check out my personal portfolio here:
 👉 [gustavo-ftz.github.io](https://gustavo-ftz.github.io/)
 
 ## 📲 Social media
-👉 [Instagram](https://www.instagram.com/gustavo_feitoz_a)
-👉 [LinkedIn](https://www.linkedin.com/in/gustavo-ftz/)
+👉 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo_feitoz_a)
+👉 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-ftz/)
 
 ---
 
