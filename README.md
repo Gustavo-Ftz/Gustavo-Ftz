@@ -18,12 +18,12 @@ I'm a **beginner Front-End developer** focused on becoming a **Full-Stack develo
 ## 🌐 Portfolio
 
 Check out my personal portfolio here:  
-👉 [gustavo-ftz.github.io](https://gustavo-ftz.github.io/)
+👉 [gustavo-ftz.github.io](https://gustavo-ftz.vercel.app/)
 
 ## 📲 Social media
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo_feitoz_a)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-ftz/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@GustavooFeitoza)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
 
 ---
 
