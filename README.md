@@ -18,7 +18,7 @@ I'm a **beginner Front-End developer** focused on becoming a **Full-Stack develo
 ## 🌐 Portfolio
 
 Check out my personal portfolio here:  
-👉 [gustavo-ftz.vercel.app](https://gustavo-ftz.vercel.app/)
+👉 [gustavo-ftz.vercel.app](https://gustavoftz.qzz.io/)
 
 ## 📲 Social media
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo_feitoz_a)
