@@ -32,5 +32,6 @@ Check out my personal portfolio here:
 
 ## 📊 GitHub Stats
 
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-ftz&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-ftz&layout=compact&theme=tokyonight)
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-ftz&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-ftz&layout=compact&theme=tokyonight&cache_seconds=86400)
+
