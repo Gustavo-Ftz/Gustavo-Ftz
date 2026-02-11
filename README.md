@@ -31,13 +31,6 @@ Check out my personal portfolio here:
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats-seven-puce-47.vercel.app/api?username=gustavo-ftz&show_icons=true&theme=tokyonight"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats-seven-puce-47.vercel.app/api/top-langs/?username=gustavo-ftz&layout=compact&theme=tokyonight"
-  />
-</div>
+
+![Gustavo's GitHub stats](https://github-readme-stats-seven-puce-47.vercel.app/api?username=gustavo-ftz&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-seven-puce-47.vercel.app/api/top-langs/?username=gustavo-ftz&layout=compact&theme=tokyonight)
