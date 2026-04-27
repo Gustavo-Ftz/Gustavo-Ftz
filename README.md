@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Gustavo  
 
-I'm a **beginner Front-End developer** focused on becoming a **Full-Stack developer**.
+I'm a **Full-Stack developer**.
 
 ---
 
