@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Gustavo  
 
-I'm a **Full-Stack developer**.
+I'm a **Full-Stack developer**. <br>
 🎓 Análise e Desenvolvimento de Sistemas
 
 ---
